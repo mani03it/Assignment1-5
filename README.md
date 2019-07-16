@@ -1,5 +1,5 @@
-# Assignment1-5
-Assignment1-5 contains Assignments on Python 1 to 5 and Piggy bank project
+# Python Basic
+This contains solutions on python implementation and Piggy bank project
 
 Piggy Bank:
 ----------
